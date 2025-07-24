@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Main
+public class BOJ2502
 {
 	// 1일차, 2일차가 몇 번 불렸는지 확인
 	static int day1_recursive = 0;
